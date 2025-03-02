@@ -17,3 +17,4 @@ You have a chance to hear from people who are not just talking about, but buildi
 - [YouTube Playlist](https://go.raybo.org/tfit-youtube)
 - [Podcast Feed - Audio Only](https://go.raybo.org/tfit-feed-audio)
 - [Episode Newsletter](https://go.raybo.org/tfit-newsletter)
+- [Class Notes](https://docs.google.com/document/d/1MeTo9slX4PjcK3WBdEsh60I2XN_eluI6roOWS5XQBy8/edit?usp=sharing)
